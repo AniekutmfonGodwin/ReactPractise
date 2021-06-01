@@ -112,5 +112,40 @@ function Greet2(name,age){
 
 
 // function with return or parameter(s)
+function getDate(){
+
+  return Date()
+
+
+  /*
+    this will still work
+    var currentDate = Date()
+    return currentDate
+  */
+  
+
+}
+/*
+the return value of the function can be save into a variable
+var currentDate = getDate()
+*/
+
+
 
 // function with  return or no parameter(s)
+
+function Add(a,b){
+let result=a+b
+return result
+
+}
+
+
+// y(x) = x+3
+
+function y(x){
+    return x+3
+}
+
+f(x,y) = x3 + y10 + 30
+
