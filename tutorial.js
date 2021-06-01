@@ -147,5 +147,7 @@ function y(x){
     return x+3
 }
 
-f(x,y) = x3 + y10 + 30
+// f(x,y) = 3x + 10y + 30
 
+
+// create a function that with popup 'good morning <name>'
